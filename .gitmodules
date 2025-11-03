@@ -1,0 +1,3 @@
+[submodule "vendor/library"]
+	path = vendor/library
+	url = https://github.com/octocat/Hello-World.git
